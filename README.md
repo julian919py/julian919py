@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align=""center>
+        <h3 aling="center"> Hello, my name is Julian, I lead research in the biomedical engineering area, related to the recording, processing and analysis of medical information, using the most widely used programming languages.</h3>
+</div>
 
 <!--
 **julian919py/julian919py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
